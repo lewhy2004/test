@@ -13,7 +13,7 @@ int main()
   }  
   else
   {
-      cout<<"Are you kidding me?"<<endl;
+      cout<<"???"<<endl;
   }
 
   return 0;    
